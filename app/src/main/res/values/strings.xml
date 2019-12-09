@@ -1,0 +1,26 @@
+<resources>
+	<string name="app_name">Snakes</string>
+	<string name="game_over">Game over</string>
+	<string name="score">Score</string>
+	<string name="max">Max</string>
+	<string name="player_vs_ai">Player vs AI</string>
+	<string name="classic">Classic</string>
+	<string name="prev_map">Prev map</string>
+	<string name="next_map">Next map</string>
+	<string name="player_vs_player">Player vs player</string>
+	<string name="options_">Options…</string>
+    <string name="options">Options</string>
+	<string name="enable_sound">Sound</string>
+	<string name="enable_music">Music</string>
+	<string name="enable_vibration">Vibration</string>
+	<string name="music_copyright">Music by ShiftKun (Creative Common Attribution license)</string>
+	<array name="speeds">
+		<item>Very slow speed</item>
+        <item>Slow speed</item>
+        <item>Normal speed</item>
+        <item>Fast speed</item>
+		<item>Faster speed</item>
+        <item>Speed of light</item>
+		<item>Faster than light</item>
+	</array>
+</resources>

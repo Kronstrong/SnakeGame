@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<dimen name="snakeChunkSize">20dp</dimen>
+	<dimen name="scoreTextSize">40sp</dimen>
+	<dimen name="scoreLabelTextSize">20sp</dimen>
+	<dimen name="gameOverTextSize">60sp</dimen>
+	<dimen name="optionsTextSize">24sp</dimen>
+</resources>

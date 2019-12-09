@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical"
+	android:padding="16dp"
+	android:layout_width="match_parent"
+	android:layout_height="wrap_content">
+
+	<TextView
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:textColor="@android:color/white"
+		android:textAppearance="@style/TextAppearance.AppCompat.Display2"
+		android:layout_gravity="center"
+		android:gravity="center"
+		android:textAllCaps="true"
+		android:text="@string/options" />
+	<Spinner
+		android:id="@+id/speed_spinner"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content" />
+	<CheckBox
+		android:id="@+id/sound_check_box"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:textSize="@dimen/optionsTextSize"
+		android:textAllCaps="true"
+		android:text="@string/enable_sound" />
+	<CheckBox
+		android:id="@+id/music_check_box"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:textSize="@dimen/optionsTextSize"
+		android:textAllCaps="true"
+		android:text="@string/enable_music" />
+	<CheckBox
+		android:id="@+id/vibration_check_box"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:textSize="@dimen/optionsTextSize"
+		android:textAllCaps="true"
+		android:text="@string/enable_vibration" />
+	<TextView
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:text="@string/music_copyright" />
+</LinearLayout>

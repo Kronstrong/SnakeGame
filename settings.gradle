@@ -1,0 +1,2 @@
+include ':app', ':snakesim', ':snake_simulator'
+rootProject.name='Snake Game'

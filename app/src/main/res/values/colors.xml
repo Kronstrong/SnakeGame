@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="colorPrimary">#008577</color>
+	<color name="colorPrimaryDark">#00574B</color>
+	<color name="colorAccent">#50c878</color>
+
+	<color name="snakeColor">#228B22</color>
+	<color name="snakeHeadColor">#50c878</color>
+	<color name="aiSnakeColor">#CB8B00</color>
+	<color name="aiSnakeHeadColor">#ffbf00</color>
+    <color name="foodColor">#cc0605</color>
+    <color name="fieldBorderColor">#888888</color>
+	<color name="teleportBorderColor">#0090ff</color>
+	<color name="pressedButtonColor">#ffffff</color>
+	<color name="scoreTextColor">#ffffff</color>
+	<color name="gameOverBackgroundColor">#88000000</color>
+</resources>
